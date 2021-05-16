@@ -2,7 +2,7 @@
 
 ## HTML / CSS
 
--[WebAgency](https://github.com/Nolwenn-Borgne/WebAgency)
+- [WebAgency](https://github.com/Nolwenn-Borgne/WebAgency)
 
 ## PHP
 
