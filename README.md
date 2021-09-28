@@ -1,5 +1,9 @@
 # Portfolio
 
+## AI
+
+- [CS50's Introduction of Artificial Intelligence with Python](https://github.com/Nolwenn-Borgne/AI)
+
 ## HTML / CSS
 
 - [WebAgency](https://github.com/Nolwenn-Borgne/WebAgency)
